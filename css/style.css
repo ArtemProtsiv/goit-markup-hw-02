@@ -120,7 +120,7 @@ body {
   color: #2e2f42;
 }
 
-.visually-hidden {
+.hidden {
   position: absolute;
   white-space: nowrap;
   width: 1px;

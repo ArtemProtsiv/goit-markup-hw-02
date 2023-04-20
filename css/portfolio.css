@@ -16,7 +16,7 @@ body {
   font-family: "Raleway";
   font-weight: 800;
   font-size: 18px;
-  line-height: 1.16;
+  line-height: 1.17;
   display: flex;
   align-items: center;
   letter-spacing: 0.03em;
@@ -24,7 +24,10 @@ body {
   color: #4d5ae5;
 }
 .color-logo {
-  color: #2e2f42;
+  color: #f4f4fd;
+}
+.color-log{
+  color: #2e2f42
 }
 
 .contacts {
@@ -51,7 +54,7 @@ body {
   color: #404bbf;
 }
 
-.visually-hidden {
+.hidden {
   position: absolute;
   white-space: nowrap;
   width: 1px;
@@ -87,4 +90,8 @@ background: #F4F4FD;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+}
+
+.footer-backgraud-color{
+  background: #2E2F42;
 }
