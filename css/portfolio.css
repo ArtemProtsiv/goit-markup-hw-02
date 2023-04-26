@@ -5,7 +5,7 @@
 body {
   font-family: "";
   color: #434455;
-  font-family: 'Raleway', sans-serif;
+  font-family: "Roboto",sans-serif;
 }
 .menu-item {
   list-style: none;
@@ -30,9 +30,11 @@ body {
 }
 .color-logo {
   color: #f4f4fd;
+  font-family: 'Raleway', sans-serif;
 }
 .color-log{
-  color: #2e2f42
+  color: #2e2f42;
+  font-family: 'Raleway', sans-serif;
 }
 
 .contacts {
