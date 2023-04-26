@@ -1,6 +1,11 @@
+:root{
+
+}
+
 body {
-  font-family: "Roboto";
+  font-family: "";
   color: #434455;
+  font-family: 'Raleway', sans-serif;
 }
 .menu-item {
   list-style: none;
